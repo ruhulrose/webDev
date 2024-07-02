@@ -8,7 +8,7 @@ This is a web development repository made for students of AEC to practice and le
 
 >create `media` folders in the your front branch directory.
 
-go to ![Format recomendation(example)](Format)
+go to ![Format](Format recomendation(example))
 
 # Recomended Tutorials
 some recomended tutorials are given bellow
