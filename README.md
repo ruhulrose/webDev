@@ -10,6 +10,9 @@ This is a web development repository made for students of AEC to practice and le
 
 go to [Format](Format-recomendation)
 
+>><b>Note: Do not use the [Format-recomendation](Format-recomendation) folder to store your code.<b>
+>>      <b>create another parent folder to store your code.<b>
+
 # Recomended Tutorials
 some recomended tutorials are given bellow
 
